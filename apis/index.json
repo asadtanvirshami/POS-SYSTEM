@@ -1,0 +1,23 @@
+{
+    "GetAllParentChilCategories":"https://proud-balsam-composer.glitch.me/categories/getCategories",
+    "GetAllGlobalInventoryItems":"https://proud-balsam-composer.glitch.me/items/getAllItems",
+    "GetGlobalInventoryItemsByTab":"https://proud-balsam-composer.glitch.me/items/getItems",
+    "GetGlobalInventoryItemsBySearch":"https://proud-balsam-composer.glitch.me/items/searchItems",
+    "PostInventoryInDatabase":"https://proud-balsam-composer.glitch.me/items/forkItem",
+
+    "GetAccountVerification":"https://proud-balsam-composer.glitch.me/auth/verification",
+    "GetUserTokenVerification":"https://proud-balsam-composer.glitch.me/auth/getUser",
+    "PostAccountLogin":"https://proud-balsam-composer.glitch.me/auth/login",
+    "PostAccountSignUp":"https://proud-balsam-composer.glitch.me/auth/signUp",
+    "GetUpcomingOrdersByCustomer":"https://proud-balsam-composer.glitch.me/customerpurchases/getUpcomingOrders",
+    "GetCompletedOrdersByCustomer":"https://proud-balsam-composer.glitch.me/customerpurchases/getCompletedOrders",
+    "UpdateOrderStatus":"https://proud-balsam-composer.glitch.me/customerpurchases/updateOrderStatus",
+    
+    "GetVendorShop":"https://proud-balsam-composer.glitch.me/shops/loadVendorShop",
+    "GetVendorShopDetails":"https://proud-balsam-composer.glitch.me/shops/getVendorShopDetails",
+    "CreateShop":"https://proud-balsam-composer.glitch.me/shops/shopCreation",
+
+    "UpdateVendorEmail":"https://proud-balsam-composer.glitch.me/user/updatePersonalInfo",
+    "UpdateVendorShop":"https://proud-balsam-composer.glitch.me/shops/UpdateVendorShop",
+    "VendorShopSwitch":"https://proud-balsam-composer.glitch.me/shops/VendorShopSwtich"
+}
